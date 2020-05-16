@@ -1,4 +1,4 @@
-package com.wjs.piao.core.mybatis;
+package com.wjs.piao.core;
 
 import org.apache.ibatis.exceptions.TooManyResultsException;
 import tk.mybatis.mapper.entity.Condition;

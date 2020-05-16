@@ -1,4 +1,4 @@
-package com.wjs.piao.core.mybatis;
+package com.wjs.piao.core;
 
 import tk.mybatis.mapper.common.BaseMapper;
 import tk.mybatis.mapper.common.ConditionMapper;

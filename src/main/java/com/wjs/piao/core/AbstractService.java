@@ -1,4 +1,4 @@
-package com.wjs.piao.core.mybatis;
+package com.wjs.piao.core;
 
 import com.wjs.piao.core.exception.ServiceException;
 import org.apache.ibatis.exceptions.TooManyResultsException;
